@@ -1,0 +1,92 @@
+#background{
+	color:none;
+	background-image:url('images/background-image.jpg');
+	background-position:center center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+#header{
+	width:500px;
+	margin:auto;
+	color:white;
+	background-color: rgba(5,5,5,0.3);
+	font-family:Sylfaen;
+	font-style: normal;
+	text-align: center;
+}
+
+#nav ul{
+	list-style:none;
+	background-color: rgba(5, 5, 5, 0.8);
+	text-align: center;
+	color:white;
+	padding:0;
+	margin:0;
+}
+#nav li{
+	display:inline-block;
+}
+
+#nav a{
+	text-decoration:none;
+	color: white;
+	display:block;
+	width:100px;
+	padding:15px;
+	font-size:30px;
+	font-family:Sylfaen;
+	font-style: normal;
+	transition:0.4s;
+}
+
+#nav a:hover{
+	background:black;
+	transition:0.4s;
+}
+
+#wrap{
+	margin-top:75px;
+	height:605px;
+
+}
+
+#photo{
+	background-color:none;
+	color:white;
+	float:left;
+	height:600px;
+	width:500px;
+	background-image:url('images/black_white_photo.jpg');
+	background-position:center center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	
+	
+}
+
+#main{
+	background-color: rgba(5,5,5,0.3);
+	margin-left:25px;
+	height:600px;
+	text-align:25px;
+	text-align:left;
+	color:white;
+	font-family:Sylfaen;
+	font-style: normal;
+	font-size:50px;
+	float:left;
+}
+
+
+
+#footer{
+	margin-top: 800px;
+	font-family:Sylfaen;
+	font-style: normal;
+	color:white;
+}
+
+
+
+
