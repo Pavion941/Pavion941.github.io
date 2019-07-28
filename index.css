@@ -7,13 +7,13 @@
 }
 
 #header{
-	width:500px;
+	width:550px;
 	margin:auto;
 	color:white;
 	font-family:Sylfaen;
 	font-style: normal;
 	background-color: rgba(5,5,5,0.3);
-	text-align: center;
+	text-align: left;
 }
 
 #nav ul{
