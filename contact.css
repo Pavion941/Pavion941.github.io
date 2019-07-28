@@ -1,0 +1,105 @@
+#background{
+	color:none;
+	background-image:url('images/background-image.jpg');
+	background-position:center center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+#header{
+	width:500px;
+	margin:auto;
+	color:white;
+	background-color: rgba(5,5,5,0.3);
+	font-family:Sylfaen;
+	font-style: normal;
+	text-align: center;
+}
+
+#nav ul{
+	list-style:none;
+	background-color: rgba(5, 5, 5, 0.8);
+	text-align: center;
+	color:white;
+	padding:0;
+	margin:0;
+}
+#nav li{
+	display:inline-block;
+}
+
+#nav a{
+	text-decoration:none;
+	color: white;
+	display:block;
+	width:100px;
+	padding:15px;
+	font-size:30px;
+	font-family:Sylfaen
+	transition:0.4s;
+}
+
+#nav a:hover{
+	background:black;
+	transition:0.4s;
+}
+
+#main{
+	background-color: rgba(5,5,5,0.3);
+	text-align:left;
+	color:white;
+	font-family:Sylfaen;
+	font-style: normal;
+	font-size: 35px;
+	margin-left:25px;
+
+}
+
+form{
+	background-color:rgba(5,5,5,0.3);
+	margin-top:50px;
+	margin-left:25px;
+
+}
+
+.form-control{
+	width:600px;
+	background: transparent;
+	border:none;
+	outline:none;
+	border-bottom:1px solid black;
+	color: white;
+	font-family:Sylfaen;
+	font-style: normal;
+	font-size:18px;
+	margin-bottom:16px;
+}
+
+input{
+	height:45px;
+}
+
+form .submit{
+	background:rgba(5,5,5,0.8);
+	border-color:transparent;
+	color:white;
+	font-family:Sylfaen;
+	font-style: normal;
+	font-size:20px;
+	font-weight:bold;
+	letter-spacing:2px;
+	height:50px;
+	margin-top:20px;
+}
+
+
+#footer{
+	font-family:Sylfaen;
+	font-style: normal;
+	color:white;
+	margin-top:800px;
+}
+
+
+
+
